@@ -3,6 +3,9 @@
 ## Project Overview
 Developed an OAuth 2.0 authentication system to address the lack of shared login authentication in a new Microservices Architecture (MSA). The system issues tokens for use across MSA components when users log in to the main system.
 
+## Project Overview
+Developed an OAuth 2.0 authentication system to address the lack of shared login authentication in a new Microservices Architecture (MSA). The system issues tokens for use across MSA components when users log in to the main system.
+
 ---
 
 <img width="1033" alt="image" src="https://github.com/user-attachments/assets/152ce7c4-470a-453c-af8a-7fcf7ef8e87e">
